@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.wav
+.pytest_cache/
+.DS_Store
